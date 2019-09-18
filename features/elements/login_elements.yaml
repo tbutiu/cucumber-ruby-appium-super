@@ -1,0 +1,16 @@
+android:
+  input_user:
+    locator: 'id'
+    value: 'com.superdigital:id/etCPF'
+  btn_user_remember:
+    locator: 'id'
+    value: 'com.superdigital:id/swRememberCpf'
+  link_forgot_password:
+    locator: 'id'
+    value: 'com.superdigital:id/tvForgotPassword'
+  btn_create_account:
+    locator: 'id'
+    value: 'com.superdigital:id/btnCreateAccount'
+  btn_sign_in:
+    locator: 'id'
+    value: 'com.superdigital:id/btnSignIn'

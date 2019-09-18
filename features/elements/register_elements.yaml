@@ -1,0 +1,38 @@
+android:
+  btn_go:
+    locator: 'id'
+    value: 'com.superdigital:id/btnGo'
+  btn_back:
+    locator: 'id'
+    value: 'com.superdigital:id/ivBackArrow'
+  link_show_details:
+    locator: 'id'
+    value: 'com.superdigital:id/tvShowDetails'
+  btn_test_initiate:
+    locator: 'id'
+    value: 'com.superdigital:id/button'
+  design_bottom_sheet:
+    locator: 'id'
+    value: 'com.superdigital:id/design_bottom_sheet'
+  design_bottom_sheet_title:
+    locator: 'id'
+    value: 'com.superdigital:id/lbtitle'
+  design_bottom_sheet_close:
+    locator: 'id'
+    value: 'com.superdigital:id/ivClose2'
+  design_bottom_sheet_detail2:
+    locator: 'id'
+    value: 'com.superdigital:id/tvDetail2'
+  toolbar:
+    locator: 'id'
+    value: 'com.superdigital:id/toolbar'
+  swipe_down:
+    start_x: 400
+    start_y: 1630
+    end_x: 400
+    end_y: 830
+  swipe_up:
+    start_x: 400
+    start_y: 830
+    end_x: 400
+    end_y: 1630

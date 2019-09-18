@@ -1,0 +1,8 @@
+default: -p json_report
+
+### Reports ###
+html_report: --format pretty -f html -o reports/features_report.html
+json_report: --format pretty -f json -o reports/features_report.json
+
+### PLATAFORM ###
+android: PLATFORM_NAME=android

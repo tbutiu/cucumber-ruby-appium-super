@@ -1,0 +1,106 @@
+# Logfile created on 2019-09-17 21:49:11 -0300 by logger.rb/61378
+I, [2019-09-17T21:49:23.081584 #18520]  INFO -- : Teste finalizado
+I, [2019-09-17T21:49:32.045304 #18520]  INFO -- : Teste finalizado
+I, [2019-09-17T21:49:44.706778 #18520]  INFO -- : Teste finalizado
+I, [2019-09-17T21:50:39.741201 #13760]  INFO -- : Find text to element com.superdigital:id/text by locator id
+I, [2019-09-17T21:50:44.733039 #13760]  INFO -- : Teste finalizado
+I, [2019-09-17T21:50:58.682844 #13760]  INFO -- : Find text to element com.superdigital:id/text by locator id
+I, [2019-09-17T21:53:12.210020 #21828]  INFO -- : Find text to element com.superdigital:id/text by locator id
+I, [2019-09-17T21:57:23.076892 #13148]  INFO -- : Find text to element com.superdigital:id/text by locator id
+I, [2019-09-17T21:59:41.398751 #8924]  INFO -- : Find text to element com.superdigital:id/text by locator id
+I, [2019-09-17T21:59:58.481722 #8924]  INFO -- : Teste finalizado
+I, [2019-09-17T22:00:29.045345 #8924]  INFO -- : Find text to element com.superdigital:id/text by locator id
+I, [2019-09-17T22:00:30.216026 #8924]  INFO -- : Teste finalizado
+I, [2019-09-17T22:00:45.343448 #8924]  INFO -- : Find text to element com.superdigital:id/text by locator id
+I, [2019-09-17T22:00:47.549239 #8924]  INFO -- : Teste finalizado
+I, [2019-09-17T22:00:58.111467 #8924]  INFO -- : Find text to element com.superdigital:id/text by locator id
+I, [2019-09-17T22:00:59.775724 #8924]  INFO -- : Teste finalizado
+I, [2019-09-17T22:01:11.739891 #8924]  INFO -- : Find text to element com.superdigital:id/text by locator id
+I, [2019-09-17T22:01:13.971844 #8924]  INFO -- : Teste finalizado
+I, [2019-09-17T22:01:55.500946 #18200]  INFO -- : Find text to element com.superdigital:id/text by locator id
+I, [2019-09-17T22:01:56.438546 #18200]  INFO -- : Teste finalizado
+I, [2019-09-17T22:02:25.843311 #18200]  INFO -- : Find text to element com.superdigital:id/text by locator id
+I, [2019-09-17T22:02:26.887655 #18200]  INFO -- : Teste finalizado
+I, [2019-09-17T22:03:07.812048 #18200]  INFO -- : Find text to element com.superdigital:id/text by locator id
+I, [2019-09-17T22:03:09.710979 #18200]  INFO -- : Teste finalizado
+I, [2019-09-17T22:03:37.991044 #18200]  INFO -- : Find text to element com.superdigital:id/text by locator id
+I, [2019-09-17T22:03:39.300967 #18200]  INFO -- : Teste finalizado
+I, [2019-09-17T22:04:06.501599 #18200]  INFO -- : Find text to element com.superdigital:id/text by locator id
+I, [2019-09-17T22:04:07.657756 #18200]  INFO -- : Teste finalizado
+I, [2019-09-17T22:05:06.755731 #14992]  INFO -- : Find text to element com.superdigital:id/text by locator id
+I, [2019-09-17T22:05:07.997755 #14992]  INFO -- : Teste finalizado
+I, [2019-09-17T22:05:17.090835 #14992]  INFO -- : Find text to element com.superdigital:id/text by locator id
+I, [2019-09-17T22:05:19.165513 #14992]  INFO -- : Teste finalizado
+I, [2019-09-17T22:05:29.301979 #14992]  INFO -- : Find text to element com.superdigital:id/text by locator id
+I, [2019-09-17T22:05:31.261412 #14992]  INFO -- : Teste finalizado
+I, [2019-09-17T22:05:41.751001 #14992]  INFO -- : Find text to element com.superdigital:id/text by locator id
+I, [2019-09-17T22:05:43.725619 #14992]  INFO -- : Teste finalizado
+I, [2019-09-17T22:05:54.855718 #14992]  INFO -- : Find text to element com.superdigital:id/text by locator id
+I, [2019-09-17T22:05:57.193349 #14992]  INFO -- : Teste finalizado
+I, [2019-09-17T22:06:54.793517 #16808]  INFO -- : Find text to element com.superdigital:id/text by locator id
+I, [2019-09-17T22:06:56.066444 #16808]  INFO -- : Teste finalizado
+I, [2019-09-17T22:07:06.406638 #16808]  INFO -- : Find text to element com.superdigital:id/text by locator id
+I, [2019-09-17T22:07:07.544176 #16808]  INFO -- : Teste finalizado
+I, [2019-09-17T22:07:19.353664 #16808]  INFO -- : Find text to element com.superdigital:id/text by locator id
+I, [2019-09-17T22:07:20.481516 #16808]  INFO -- : Teste finalizado
+I, [2019-09-17T22:07:33.807653 #16808]  INFO -- : Find text to element com.superdigital:id/text by locator id
+I, [2019-09-17T22:07:34.969094 #16808]  INFO -- : Teste finalizado
+I, [2019-09-17T22:07:49.725633 #16808]  INFO -- : Find text to element com.superdigital:id/text by locator id
+I, [2019-09-17T22:07:51.024101 #16808]  INFO -- : Teste finalizado
+I, [2019-09-17T22:15:38.199426 #8140]  INFO -- : Find text to element com.superdigital:id/text by locator id
+I, [2019-09-17T22:15:39.075542 #8140]  INFO -- : Teste finalizado
+I, [2019-09-17T22:15:48.621446 #8140]  INFO -- : Find text to element com.superdigital:id/text by locator id
+I, [2019-09-17T22:15:49.601345 #8140]  INFO -- : Teste finalizado
+I, [2019-09-17T22:16:01.633595 #8140]  INFO -- : Find text to element com.superdigital:id/text by locator id
+I, [2019-09-17T22:16:02.787266 #8140]  INFO -- : Teste finalizado
+I, [2019-09-17T22:16:16.156675 #8140]  INFO -- : Find text to element com.superdigital:id/text by locator id
+I, [2019-09-17T22:16:17.377369 #8140]  INFO -- : Teste finalizado
+I, [2019-09-17T22:16:32.446873 #8140]  INFO -- : Find text to element com.superdigital:id/text by locator id
+I, [2019-09-17T22:16:33.544018 #8140]  INFO -- : Teste finalizado
+I, [2019-09-17T22:16:43.182684 #8140]  INFO -- : Teste finalizado
+I, [2019-09-17T22:17:36.489048 #14212]  INFO -- : Find text to element com.superdigital:id/text by locator id
+I, [2019-09-17T22:17:37.861281 #14212]  INFO -- : Teste finalizado
+I, [2019-09-17T22:17:47.917324 #14212]  INFO -- : Find text to element com.superdigital:id/text by locator id
+I, [2019-09-17T22:17:49.130017 #14212]  INFO -- : Teste finalizado
+I, [2019-09-17T22:18:01.291110 #14212]  INFO -- : Find text to element com.superdigital:id/text by locator id
+I, [2019-09-17T22:18:02.552479 #14212]  INFO -- : Teste finalizado
+I, [2019-09-17T22:18:15.576638 #14212]  INFO -- : Find text to element com.superdigital:id/text by locator id
+I, [2019-09-17T22:18:16.869412 #14212]  INFO -- : Teste finalizado
+I, [2019-09-17T22:18:31.744484 #14212]  INFO -- : Find text to element com.superdigital:id/text by locator id
+I, [2019-09-17T22:18:32.923242 #14212]  INFO -- : Teste finalizado
+I, [2019-09-17T22:18:41.498702 #14212]  INFO -- : Find text to element com.superdigital:id/logIn by locator id
+I, [2019-09-17T22:18:43.842345 #14212]  INFO -- : Teste finalizado
+I, [2019-09-17T22:27:17.476847 #19172]  INFO -- : Find text to element com.superdigital:id/text by locator id
+I, [2019-09-17T22:27:18.456655 #19172]  INFO -- : Teste finalizado
+I, [2019-09-17T22:27:29.141565 #19172]  INFO -- : Find text to element com.superdigital:id/text by locator id
+I, [2019-09-17T22:27:30.366871 #19172]  INFO -- : Teste finalizado
+I, [2019-09-17T22:27:42.581298 #19172]  INFO -- : Find text to element com.superdigital:id/text by locator id
+I, [2019-09-17T22:27:43.780224 #19172]  INFO -- : Teste finalizado
+I, [2019-09-17T22:27:57.812766 #19172]  INFO -- : Find text to element com.superdigital:id/text by locator id
+I, [2019-09-17T22:27:59.005284 #19172]  INFO -- : Teste finalizado
+I, [2019-09-17T22:28:14.140265 #19172]  INFO -- : Find text to element com.superdigital:id/text by locator id
+I, [2019-09-17T22:28:15.298389 #19172]  INFO -- : Teste finalizado
+I, [2019-09-17T22:28:23.919433 #19172]  INFO -- : Find text to element com.superdigital:id/logIn by locator id
+I, [2019-09-17T22:28:27.042883 #19172]  INFO -- : Teste finalizado
+I, [2019-09-17T23:00:40.454775 #4624]  INFO -- : Teste finalizado
+I, [2019-09-17T23:04:11.369238 #8596]  INFO -- : Teste finalizado
+I, [2019-09-17T23:04:12.402353 #8596]  INFO -- : Teste finalizado
+I, [2019-09-17T23:04:13.433138 #8596]  INFO -- : Teste finalizado
+I, [2019-09-17T23:04:14.447923 #8596]  INFO -- : Teste finalizado
+I, [2019-09-17T23:04:15.455636 #8596]  INFO -- : Teste finalizado
+I, [2019-09-17T23:04:16.466318 #8596]  INFO -- : Teste finalizado
+I, [2019-09-17T23:04:17.474000 #8596]  INFO -- : Teste finalizado
+I, [2019-09-17T23:10:22.395370 #2736]  INFO -- : Find text to element com.superdigital:id/text by locator id
+I, [2019-09-17T23:10:23.580236 #2736]  INFO -- : Teste finalizado
+I, [2019-09-17T23:10:34.732051 #2736]  INFO -- : Find text to element com.superdigital:id/text by locator id
+I, [2019-09-17T23:10:35.925165 #2736]  INFO -- : Teste finalizado
+I, [2019-09-17T23:10:47.309847 #2736]  INFO -- : Find text to element com.superdigital:id/text by locator id
+I, [2019-09-17T23:10:48.556786 #2736]  INFO -- : Teste finalizado
+I, [2019-09-17T23:11:01.715232 #2736]  INFO -- : Find text to element com.superdigital:id/text by locator id
+I, [2019-09-17T23:11:03.007245 #2736]  INFO -- : Teste finalizado
+I, [2019-09-17T23:11:18.278653 #2736]  INFO -- : Find text to element com.superdigital:id/text by locator id
+I, [2019-09-17T23:11:19.653427 #2736]  INFO -- : Teste finalizado
+I, [2019-09-17T23:11:28.372177 #2736]  INFO -- : Find text to element com.superdigital:id/logIn by locator id
+I, [2019-09-17T23:11:31.524201 #2736]  INFO -- : Teste finalizado
+I, [2019-09-17T23:11:39.957155 #2736]  INFO -- : Find text to element com.superdigital:id/btnTest by locator id
+I, [2019-09-17T23:11:44.453784 #2736]  INFO -- : Teste finalizado

@@ -1,0 +1,11 @@
+[caps]
+platformName = "Android"
+deviceName = "Moto g 4 plus"
+appPackage = "com.superdigital"
+appActivity = "layout.superdigital.com.superdigitallayout.ui.activitys.SplashActivity"
+app = "./app/android/superdigital.apk"
+autoGrantPermissions = true
+newCommandTimeout = 3600
+[appium_lib]
+wait = 20
+debug = false

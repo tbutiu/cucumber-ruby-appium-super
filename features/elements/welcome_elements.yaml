@@ -1,0 +1,39 @@
+android:
+  page_welcome:
+    locator: 'id'
+    value: 'com.superdigital:id/pagerWelcome'
+  link_login:
+    locator: 'id'
+    value: 'com.superdigital:id/logIn'
+  text:
+    locator: 'id'
+    value: 'com.superdigital:id/text'
+  btn_test:
+    locator: 'id'
+    value: 'com.superdigital:id/btnTest'
+  indicator_zero:
+    locator: 'id'
+    value: 'com.superdigital:id/indicatorZero'
+  indicator_one:
+    locator: 'id'
+    value: 'com.superdigital:id/indicatorOne'
+  indicator_two:
+    locator: 'id'
+    value: 'com.superdigital:id/indicatorTwo'
+  indicator_three:
+    locator: 'id'
+    value: 'com.superdigital:id/indicatorThree'
+  indicator_four:
+    locator: 'id'
+    value: 'com.superdigital:id/indicatorFour'
+  swipe_right:
+    start_x: 990
+    start_y: 900
+    end_x: 80
+    end_y: 900
+  swipe_left:
+    start_x: 80
+    start_y: 900
+    end_x: 990
+    end_y: 900
+
